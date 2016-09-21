@@ -20,18 +20,21 @@
 
         <Button
             android:id="@+id/b1"
+            android:textSize="72dp"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"/>
 
         <Button
             android:id="@+id/b2"
+            android:textSize="72dp"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"/>
 
         <Button
             android:id="@+id/b3"
+            android:textSize="72dp"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"/>
@@ -45,18 +48,21 @@
 
         <Button
             android:id="@+id/b4"
+            android:textSize="72dp"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"/>
 
         <Button
             android:id="@+id/b5"
+            android:textSize="72dp"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"/>
 
         <Button
             android:id="@+id/b6"
+            android:textSize="72dp"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"/>
@@ -70,18 +76,21 @@
 
         <Button
             android:id="@+id/b7"
+            android:textSize="72dp"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"/>
 
         <Button
             android:id="@+id/b8"
+            android:textSize="72dp"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"/>
 
         <Button
             android:id="@+id/b9"
+            android:textSize="72dp"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"/>
